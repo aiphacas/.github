@@ -90,7 +90,7 @@ AIPHACAS 积极拥抱开源社区与学术界合作：
 
 - 🌐 **官方门户**：[https://aiphacas.com](https://aiphacas.com)
 - 🖥️ **算力平台**：[https://mlplatform.aiphacas.com](https://mlplatform.aiphacas.com)
-- 📮 **商务与科研合作**：contact@aiphacas.com
+- 📮 **商务与科研合作**：kangbw@aiphacas.com
 - 💬 **反馈与建议**：欢迎通过 GitHub Issues 或平台在线客服与我们取得联系
 
 <br/>
